@@ -10,6 +10,6 @@ Various control strategies are implemented over the microcontrollers. One of the
 
 Moreover fault detection strategies are adopted, based on the well known schema composed by the model and the residuals evaluation.
 
-[b]Requirements for students and collaborators:[\b] Background in automatic control and system modelling; basic skills in the use of recording SW for real time applications (LabVIEW) or/and data processing (MATLAB) and programming microcontrollers.
+Requirements for students and collaborators: Background in automatic control and system modelling; basic skills in the use of recording SW for real time applications (LabVIEW) or/and data processing (MATLAB) and programming microcontrollers.
 
 The repository will be frequently updated with all the new implementations.
